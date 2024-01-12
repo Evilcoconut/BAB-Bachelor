@@ -1,2 +1,2 @@
 # BAB-Bachelor
-R-kode BAB
+R-kode BAB bachelorprojekt
